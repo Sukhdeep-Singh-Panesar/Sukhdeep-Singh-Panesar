@@ -1,21 +1,21 @@
-<h3 align= "center">Hi, I'm Sukhdeep Singh👋</h3>
-<h4 align="center">Student at UWinnipeg and Full Stack Developer </h4>
+<h1 align= "center">Hi, I'm Sukhdeep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h3 align="center">Student at UWinnipeg and Full Stack Developer </h3>
 
----
+
 
 ### ✦  About Me
 - 🎓 Software Engineering student  
 - 💻 Full-stack developer focused on building real-world apps  
 - 📱 Also building cross-platform mobile apps  
+- ⚡ Mindset **Progress beats perfection. Keep building.**
 
----
 
 ### 📈 Currently Working On
--   Improving my project **P-Music-App**
+-  Improving my project **P-Music-App**
 -  Learning more about scalable systems and modern frontend tools
 -  Building apps with React, Next.js, and Flutter frameworks  
 
----
+
 
 ### 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript  
@@ -25,7 +25,7 @@
 - **Database:** PostgreSQL  
 - **Tools:** Git, Docker  
 
----
+
 
 ###  Projects
 👉 https://github.com/Sukhdeep-Singh-Panesar
@@ -33,26 +33,17 @@
  Portfolio:  
 👉 https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro
 
----
 
-###  Contact Me
--  Email: sukhdeepsingh2821@gmail.com
--  LinkedIn: https://www.linkedin.com/in/sukhdeep-singh-panesar  
+###  Contact With Me 
+-  [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh-panesar)  
 
----
-
-### ⚡ Mindset
-> Progress beats perfection. Keep building.
-
-### ✦ GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" height="150" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" alt="sukhdeep-singh-panesar stats of language"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true&theme=tokyonight" height="150" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true" alt="sukhdeep-singh-panesar stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sukhdeep-singh-panesar&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=sukhdeep-singh-panesar&theme=tokyonight" alt="sukhdeep-singh-panesar streak"/>
 </p>
