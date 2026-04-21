@@ -50,4 +50,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" height="150" />
 </p>
   <img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true&theme=tokyonight" height="150" />
+  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sukhdeep-singh-panesar&theme=tokyonight" height="150" />
 </p>
