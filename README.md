@@ -7,7 +7,7 @@
 - 🎓 Software Engineering student  
 - 💻 Full-stack developer focused on building real-world apps  
 - 📱 Also building cross-platform mobile apps  
-- ⚡ Mindset **Progress beats perfection. Keep building.**
+- ⚡ Mindset: **Progress beats perfection. Keep building.**
 
 
 ### 📈 Currently Working On
@@ -28,10 +28,10 @@
 
 
 ###  Projects
-👉 https://github.com/Sukhdeep-Singh-Panesar
+👉 [https://github.com/Sukhdeep-Singh-Panesar](https://github.com/Sukhdeep-Singh-Panesar?tab=repositories)
 
  Portfolio:  
-👉 https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro
+👉 [https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro](https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro)
 
 
 ###  Contact With Me 
