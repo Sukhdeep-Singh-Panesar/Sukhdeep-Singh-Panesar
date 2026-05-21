@@ -11,7 +11,7 @@
 
 
 ### 📈 Currently Working On
--  Improving my project **P-Music-App**
+-  Improving my projects **P-Music-App** & **React Dashboard**
 -  Learning more about scalable systems and modern frontend tools
 -  Building apps with React, Next.js, and Flutter frameworks  
 
