@@ -11,7 +11,7 @@
 
 
 ### 📈 Currently Working On
--  Improving my projects **P-Music-App** & **React Dashboard**
+-  Improving my projects **P-Music-App**
 -  Learning more about scalable systems and modern frontend tools
 -  Building apps with React, Next.js, and Flutter frameworks  
 
@@ -28,10 +28,10 @@
 
 
 ###  Projects
-👉 [https://github.com/Sukhdeep-Singh-Panesar](https://github.com/Sukhdeep-Singh-Panesar?tab=repositories)
+👉 [Sukhdeep Singh's Projects](https://github.com/Sukhdeep-Singh-Panesar?tab=repositories)
 
  Portfolio:  
-👉 [https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro](https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro)
+👉 [Sukhdeep Singh's Portfolio](https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro)
 
 
 ###  Contact With Me 
@@ -41,9 +41,9 @@
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" alt="sukhdeep-singh-panesar stats of language"/>
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true" alt="sukhdeep-singh-panesar stats" />
-</p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true" alt="sukhdeep-singh-panesar stats" />
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sukhdeep-singh-panesar&theme=tokyonight" alt="sukhdeep-singh-panesar streak"/>
-</p>
+</p> -->
