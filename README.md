@@ -3,21 +3,21 @@
 
 
 
-### ✦  About Me
-- 🎓 Software Engineering student  
-- 💻 Full-stack developer focused on building real-world apps  
-- 📱 Also building cross-platform mobile apps  
-- ⚡ Mindset: **Progress beats perfection. Keep building.**
+### ✦About Me
+-  Software Engineering student  
+-  Full-stack developer focused on building real-world apps  
+-  Also building cross-platform mobile apps  
+-  Mindset: **Progress beats perfection. Keep building.**
 
 
-### 📈 Currently Working On
+###  Currently Working On
 -  Improving my projects **P-Music-App**
 -  Learning more about scalable systems and modern frontend tools
 -  Building apps with React, Next.js, and Flutter frameworks  
 
 
 
-### 💻 Tech Stack
+### Tech Stack
 - **Languages:** JavaScript, TypeScript  
 - **Frontend:** React, Next.js, HTML, CSS  
 - **Backend:** Node.js, Express  
@@ -38,10 +38,10 @@
 -  [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh-panesar)  
 
 
-<p align="center">
+<!-- <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" alt="sukhdeep-singh-panesar stats of language"/>
 </p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true" alt="sukhdeep-singh-panesar stats" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukhdeep-singh-panesar&show_icons=true" alt="sukhdeep-singh-panesar stats" />
 </p> -->
 
 <!-- <p align="center">
