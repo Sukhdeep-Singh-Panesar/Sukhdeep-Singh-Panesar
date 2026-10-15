@@ -1,42 +1,57 @@
 <h1 align= "center">Hi, I'm Sukhdeep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">Student at UWinnipeg and Full Stack Developer </h3>
 
+<h3 align="center">Applied Computer Science Student | Software Developer</h3>
 
+I'm pursuing a Bachelor of Science in Applied Computer Science at the **University of Winnipeg**, with a minor in Mathematics. I enjoy building practical applications, solving problems, and learning how modern software systems work.
 
-### ✦About Me
--  Software Engineering student  
--  Full-stack developer focused on building real-world apps  
--  Also building cross-platform mobile apps  
--  Mindset: **Progress beats perfection. Keep building.**
+🔗 **[Visit My Portfolio](https://sukhdeep-portfolio-lyart.vercel.app/)**
 
+## About Me
 
-###  Currently Working On
--  Improving my projects **P-Music-App**
--  Learning more about scalable systems and modern frontend tools
--  Building apps with React, Next.js, and Flutter frameworks  
+-  Studying Applied Computer Science at the University of Winnipeg
+-  Interested in web development, backend systems, and software engineering
+-  Building projects to strengthen my development and problem-solving skills
+-  Currently learning Next.js, NestJS, Docker, and cloud deployment
+-  Open to connecting with developers and exploring software development opportunities
 
+## Technical Skills
 
+**Languages:** Java, JavaScript, TypeScript, SQL, HTML, CSS  
+**Frontend:** React, Tailwind CSS, Astro  
+**Backend & Databases:** Node.js, Express, PostgreSQL  
+**Tools:** Git, GitHub, VS Code, JetBrains IDEs  
+**Currently Learning:** Next.js, NestJS, Docker, Cloud Deployment
 
-### Tech Stack
-- **Languages:** JavaScript, TypeScript  
-- **Frontend:** React, Next.js, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Mobile:** Flutter, React Native  
-- **Database:** PostgreSQL  
-- **Tools:** Git, Docker  
+## Featured Projects
 
+### TaskHub — Task Management App
 
+A responsive task management application built with React, TypeScript, Tailwind CSS, and Vite.
 
-###  Projects
-👉 [Sukhdeep Singh's Projects](https://github.com/Sukhdeep-Singh-Panesar?tab=repositories)
+- [View Source Code](https://github.com/Sukhdeep-Singh-Panesar/TaskHub)
+- [Live Demo](https://to-do-list-app-rust-five.vercel.app/)
 
- Portfolio:  
-👉 [Sukhdeep Singh's Portfolio](https://github.com/Sukhdeep-Singh-Panesar/portfolio-astro)
+### PChat — Messaging App *(In Development)*
 
+A full-stack messaging application using Next.js, NestJS, TypeScript, and PostgreSQL.
 
-###  Contact With Me 
--  [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh-panesar)  
+- [View Source Code](https://github.com/Sukhdeep-Singh-Panesar/pchat)
 
+## Portfolio
+
+Explore more about my projects, skills, and development journey:
+
+**[sukhdeep-portfolio-lyart.vercel.app](https://sukhdeep-portfolio-lyart.vercel.app/)**
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh-panesar)
+- [GitHub](https://github.com/Sukhdeep-Singh-Panesar)
+- [Portfolio](https://sukhdeep-portfolio-lyart.vercel.app/)
+
+---
+
+*Always learning, building, and improving.*
 
 <!-- <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep-singh-panesar&layout=compact&theme=radical" alt="sukhdeep-singh-panesar stats of language"/>
